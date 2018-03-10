@@ -1,0 +1,27 @@
+.navbar {
+    background-color: aliceblue;
+    font-size: 130%;
+}
+.cardBox{
+    opacity: 0.8;
+}
+.topText{
+    
+}
+.pointer {
+    cursor: pointer;
+}
+.bottemText {
+    padding-top: 5%;
+}
+.imageShow {
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+.imageBack {
+   background-image: url("../images/wide-dynamic-range.jpg");
+    background-size:cover
+}
+.text-danger{
+    font-size: 300%;
+}
